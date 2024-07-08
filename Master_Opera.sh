@@ -1,7 +1,8 @@
 #!/bin/bash
 
+
 dmgname="opera.dmg"
-arch=$(/usr/bin/arch)
+# arch=$(/usr/bin/arch)
 temp=/private/tmp
 URL="https://get.geo.opera.com/pub/opera/desktop/110.0.5130.49/mac/Opera_110.0.5130.49_Setup.dmg"
 
